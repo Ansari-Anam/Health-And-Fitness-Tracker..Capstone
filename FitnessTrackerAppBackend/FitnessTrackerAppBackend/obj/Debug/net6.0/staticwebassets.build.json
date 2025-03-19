@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "JF0uxM5vGHnBhklRZomhUlEMfqqVF2n5iWjzNuKaaDI=",
+  "Source": "FitnessTrackerAppBackend",
+  "BasePath": "_content/FitnessTrackerAppBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
