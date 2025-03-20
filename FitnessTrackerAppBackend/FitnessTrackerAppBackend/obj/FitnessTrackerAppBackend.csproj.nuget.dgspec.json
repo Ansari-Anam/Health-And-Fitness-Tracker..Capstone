@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\TrackerBackend\\FitnessTrackerAppBackend\\FitnessTrackerAppBackend\\FitnessTrackerAppBackend.csproj": {}
+    "E:\\FitnessTrackerBackend\\FitnessTrackerAppBackend\\FitnessTrackerAppBackend\\FitnessTrackerAppBackend.csproj": {}
   },
   "projects": {
-    "E:\\TrackerBackend\\FitnessTrackerAppBackend\\FitnessTrackerAppBackend\\FitnessTrackerAppBackend.csproj": {
+    "E:\\FitnessTrackerBackend\\FitnessTrackerAppBackend\\FitnessTrackerAppBackend\\FitnessTrackerAppBackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\TrackerBackend\\FitnessTrackerAppBackend\\FitnessTrackerAppBackend\\FitnessTrackerAppBackend.csproj",
+        "projectUniqueName": "E:\\FitnessTrackerBackend\\FitnessTrackerAppBackend\\FitnessTrackerAppBackend\\FitnessTrackerAppBackend.csproj",
         "projectName": "FitnessTrackerAppBackend",
-        "projectPath": "E:\\TrackerBackend\\FitnessTrackerAppBackend\\FitnessTrackerAppBackend\\FitnessTrackerAppBackend.csproj",
+        "projectPath": "E:\\FitnessTrackerBackend\\FitnessTrackerAppBackend\\FitnessTrackerAppBackend\\FitnessTrackerAppBackend.csproj",
         "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-        "outputPath": "E:\\TrackerBackend\\FitnessTrackerAppBackend\\FitnessTrackerAppBackend\\obj\\",
+        "outputPath": "E:\\FitnessTrackerBackend\\FitnessTrackerAppBackend\\FitnessTrackerAppBackend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

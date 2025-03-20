@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zPnOwj23Xy8=",
+  "dgSpecHash": "wIaeuYk5LNo=",
   "success": true,
-  "projectFilePath": "E:\\TrackerBackend\\FitnessTrackerAppBackend\\FitnessTrackerAppBackend\\FitnessTrackerAppBackend.csproj",
+  "projectFilePath": "E:\\FitnessTrackerBackend\\FitnessTrackerAppBackend\\FitnessTrackerAppBackend\\FitnessTrackerAppBackend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\acer\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\acer\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
